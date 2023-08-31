@@ -13,6 +13,8 @@
 - Thonny IDE
 - Bluetooth Monitoring app
 
+**Languages Used:**
+- Micro Python
 
 
 ## Purpose:
