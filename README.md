@@ -47,16 +47,10 @@ The purpose of the "Low-Cost Diabetic Foot Monitoring Device" project is to crea
 
 9. **Loop Repeats:** The loop starts over again, continuously monitoring the sensor channels and sending data.
 
-
-
-
-
-
-
 ## Pictures of our project:
 
 ### Initial setup without bluetooth monitoring on phone
 ![App Screenshot](./assets/pic1.png)
 
-### Project setup values being monitored with the help of bluetooth module on phone
+### Project setup with values being monitored with the help of bluetooth module on phone
 ![App Screenshot](./assets/pic.jpg)
