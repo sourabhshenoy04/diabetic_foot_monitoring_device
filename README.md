@@ -53,7 +53,7 @@ The purpose of the "Low-Cost Diabetic Foot Monitoring Device" project is to crea
 
 
 
-## Screenshot of Output
+## Pic of our project:
 
 ![App Screenshot](./assets/pic.png)
 
