@@ -1,1 +1,1 @@
-# diabetic_foot_monitoring_device
+# Diabetic Foot Monitoring Device
