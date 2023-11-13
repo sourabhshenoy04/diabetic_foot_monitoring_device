@@ -1,7 +1,7 @@
 # Diabetic Foot Monitoring Device
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Hardware:**
 - Raspberry Pi Pico W
